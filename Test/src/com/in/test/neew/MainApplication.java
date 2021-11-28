@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+//added by mohan for stream api
 public class MainApplication {
 	
 	public static void main(String[] args) {
